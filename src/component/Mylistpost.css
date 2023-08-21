@@ -1,0 +1,16 @@
+section{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.box{
+    height: 100px;
+    width: 800px;
+    background-color: aqua;
+    box-shadow: 3px 3px 3px red;
+    border: 3px solid black;
+    border-radius: 10px;
+margin:10px;
+
+}
